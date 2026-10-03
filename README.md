@@ -6,6 +6,4 @@ Welcome to my learning repository.
 - AI
 - Microsoft Ecosystem
  
-```bash
-git clone https://github.com/project/repo
-```
+
