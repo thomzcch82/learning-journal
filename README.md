@@ -5,5 +5,9 @@ Welcome to my learning repository.
 ## Current Focus
 - AI
 - Microsoft Ecosystem
- 
+
+
+ ###AI-AWS-TERRAFORM
+ https://registry.terraform.io/
+ 
 
