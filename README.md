@@ -9,5 +9,11 @@ Welcome to my learning repository.
 
  ###AI-AWS-TERRAFORM
  https://registry.terraform.io/
+ ####terraform providers
+ ####terraform main -> resource creation
+ ####terraform init
+ ####terraform plan
+ ####terraform apply
+ ####terraform destroy
  
 
