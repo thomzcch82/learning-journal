@@ -17,5 +17,8 @@ Welcome to my learning repository.
  ####terraform plan
  ####terraform apply
  ####terraform destroy
- 
 
+
+ ---
+ ##github copilot
+ ##prompt : /new create me all the files needed for new terraform project that includes modules.
