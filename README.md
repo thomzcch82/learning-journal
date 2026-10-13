@@ -21,4 +21,5 @@ Welcome to my learning repository.
 
  ---
  ##github copilot
- ##prompt : /new create me all the files needed for new terraform project that includes modules.
+ ##useful prompt : /new create me all the files needed for new terraform project that includes modules.
+ ##useful prompt : @workspace /new create me a new gitignore file specifically for terraform projects to ensure I don't check in files that aren't needed
